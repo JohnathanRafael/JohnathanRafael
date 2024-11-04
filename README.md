@@ -14,9 +14,6 @@ Atualmente curso Sistemas de Informação Bacharelado na Universidade Estadual d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnathanRafael&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1E90FF&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JohnathanRafael&theme=bear&theme=dark&background=000000&fire=1E90FF&sideNums=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
-## 🖥️Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnathanRafael&bg_color=000&border_color=30A3DC&title_color=1E90FF&text_color=FFF)
 
 ## 📊Projeto destaque
 Um sistema de controle de Matrículas, desenvolvido para Associção Sagrada Família. Nesse projeto trabalhei como PO e desenvolvedor front end.
